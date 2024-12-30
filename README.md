@@ -1,7 +1,5 @@
 # Bitcoin Pulse 🚀
 
-![Bitcoin Pulse Dashboard](./screenshot.png)
-
 A sleek, modern real-time Bitcoin price tracker with live order book visualization. Built with React, TypeScript, and WebSocket technology.
 
 ## ✨ Features
