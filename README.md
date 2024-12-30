@@ -73,7 +73,10 @@ Bitcoin Pulse connects to Binance's WebSocket API to provide:
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop View](https://i.imgur.com/YourImage.jpg)
+![Desktop View](https://i.imgur.com/KgDJgGf.png)
+
+### Mobile View
+![Mobile View](https://i.imgur.com/YqW2JL4.png)
 
 ## 📄 License
 
