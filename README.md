@@ -1,6 +1,6 @@
 # Bitcoin Pulse 🚀
 
-![Bitcoin Pulse Dashboard](https://i.imgur.com/YourImage.jpg)
+![Bitcoin Pulse Application](https://i.imgur.com/4Wy0yXD.png)
 
 A sleek, modern real-time Bitcoin price tracker with live order book visualization. Built with React, TypeScript, and WebSocket technology.
 
@@ -70,13 +70,6 @@ Bitcoin Pulse connects to Binance's WebSocket API to provide:
 - Volume-based visualizations for order book
 - Responsive and mobile-friendly layout
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop View](https://i.imgur.com/KgDJgGf.png)
-
-### Mobile View
-![Mobile View](https://i.imgur.com/YqW2JL4.png)
 
 ## 📄 License
 
