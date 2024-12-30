@@ -1,6 +1,6 @@
 # Bitcoin Pulse 🚀
 
-![Bitcoin Pulse Application](https://i.imgur.com/4Wy0yXD.png)
+![Bitcoin Pulse Dashboard](./screenshot.png)
 
 A sleek, modern real-time Bitcoin price tracker with live order book visualization. Built with React, TypeScript, and WebSocket technology.
 
